@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+
+
+body {
+  background-color: #e8e2d3;
+}
+
+h1 {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1300%;
+  text-align: center;
+}
+
+.footer {
+  font-family: 'Source Sans Pro', sans-serif;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #8b8679;
+  font-size: 20px;
+}
+
+.heart {
+  vertical-align: middle;
+}
